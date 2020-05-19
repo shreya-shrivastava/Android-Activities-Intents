@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView">Welcome to my First Project</string>
+    <string name="button">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="textView2">Enter your name</string>
+    <string name="editText"></string>
+
+</resources>
