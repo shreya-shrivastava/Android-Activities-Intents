@@ -5,5 +5,6 @@ Upon returning from the second activity, the first activity checks whether the r
 Note that the second activity must return automatically to the first activity after a user enters a name and presses the return or done key.
 
 Android platform:
+
 For this project use a Pixel 3 XL AVD running Pie API 28.
 
